@@ -74,6 +74,7 @@
         <li>[다학제간 캡스톤 디자인] 2025 <strong>인기상</strong> 수상</li>
         <li>SQLD 자격증</li>
         <li>컴퓨터활용능력 1급</li>
+        <li>정보처리기사</li>
     </ul>
 </div>
 
